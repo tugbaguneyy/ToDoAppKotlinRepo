@@ -67,22 +67,22 @@ room/
 - **LiveData**
 - **ViewModel**
 
-###Sonuç
+### Sonuç
 Bu repository, aynı Todo uygulamasının farklı mimari desenler ve teknolojiler kullanılarak geliştirilmiş iki versiyonunu içermektedir. Proje, özellikle Retrofit ve Room gibi farklı veri yönetimi mimarilerinin karşılaştırılması ve öğrenilmesi amacıyla tasarlanmıştır.
 
-Farklılıklar
-Retrofit:
+#### Farklılıklar
+##### Retrofit:
 
--HTTP istekleri üzerinden uzak sunucularla iletişim kurmak için kullanılır.
--RESTful API'ler ile entegrasyon sağlar.
--JSON veri dönüşümleri için kolay entegrasyon sunar.
--Genellikle ağ işlemleri için tercih edilir.
-Room:
+- HTTP istekleri üzerinden uzak sunucularla iletişim kurmak için kullanılır.
+- RESTful API'ler ile entegrasyon sağlar.
+- JSON veri dönüşümleri için kolay entegrasyon sunar.
+- Genellikle ağ işlemleri için tercih edilir.
+###### Room:
 
--SQLite veritabanı üzerinde yerel veri depolama ve işlemleri yapmak için kullanılır.
--Veritabanı erişim nesnelerini (DAO) kullanarak veritabanı işlemlerini yönetir.
--Veri tutarlılığı ve yerel veri yönetimi için tercih edilir.
--LiveData gibi bileşenlerle Android uygulamalarına entegrasyon sağlar.
+- SQLite veritabanı üzerinde yerel veri depolama ve işlemleri yapmak için kullanılır.
+- Veritabanı erişim nesnelerini (DAO) kullanarak veritabanı işlemlerini yönetir.
+- Veri tutarlılığı ve yerel veri yönetimi için tercih edilir.
+- LiveData gibi bileşenlerle Android uygulamalarına entegrasyon sağlar.
 
-####Öğrenme Amaçlı Kullanım
+#### Öğrenme Amaçlı Kullanım
 Bu proje, Android uygulama geliştirme sürecinde farklı veri yönetimi mimarileri ve bağımlılık enjeksiyonu gibi kavramların uygulamalı olarak öğrenilmesi için idealdir. Her iki versiyonu inceleyerek, Retrofit ile ağ işlemleri ve API entegrasyonu nasıl yapıldığını ve Room ile SQLite veritabanı işlemlerinin nasıl gerçekleştirildiğini pratik olarak görebilirsiniz.
