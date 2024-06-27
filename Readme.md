@@ -1,6 +1,17 @@
 # TodoApp Repository
 
 Bu repository, aynı Todo uygulamasının farklı mimari desenler ve teknolojiler kullanılarak geliştirilmiş iki versiyonunu içerir.
+# Temel Tasarım
+- To Do eklemek için sağ alt köşede bir buton bulunur.
+- Eklenen To Do'lar uygulamanın açılış ekranında listelenir.
+- Her To Do için silme butonu bulunur. Tıklandığında en altta bir onay uyrasını açılır.
+- 
+## Uygulamadan Görüntüler
+![Screenshot 1](todoappscreenshot1.png)
+- 
+![Screenshot 2](todoappscreenshot2.png)
+- 
+![Screenshot 3](todoappscreenshot3.png)
 
 ## Projeler
 
@@ -8,11 +19,11 @@ Bu repository, aynı Todo uygulamasının farklı mimari desenler ve teknolojile
 Bu proje, MVVM mimarisi, Hilt ile bağımlılık enjeksiyonu ve Retrofit ile ağ işlemleri kullanılarak geliştirilmiştir.
 
 #### Dosya Yapısı
-mvvm_hilt_retrofit/
-├── app/
-│ ├── src/
-│ └── build.gradle
-└── build.gradle
+- mvvm_hilt_retrofit/
+- ├── app/
+- │ ├── src/
+- │ └── build.gradle
+- └── build.gradle
 #### Kurulum ve Çalıştırma
 1. Projeyi klonlayın:
     ```bash
@@ -40,11 +51,11 @@ mvvm_hilt_retrofit/
 Bu proje, yerel veritabanı işlemleri için Room kütüphanesi kullanılarak geliştirilmiştir. Room, SQLite veritabanını yönetmek için kullanılır.
 
 #### Dosya Yapısı
-room/
-├── app/
-│ ├── src/
-│ └── build.gradle
-└── build.gradle
+- room/
+- ├── app/
+- │ ├── src/
+- │ └── build.gradle
+- └── build.gradle
 #### Kurulum ve Çalıştırma
 1. Projeyi klonlayın:
     ```bash
