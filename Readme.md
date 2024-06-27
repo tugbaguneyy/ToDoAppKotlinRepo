@@ -5,7 +5,7 @@ Bu repository, aynı Todo uygulamasının farklı mimari desenler ve teknolojile
 - To Do eklemek için sağ alt köşede bir buton bulunur.
 - Eklenen To Do'lar uygulamanın açılış ekranında listelenir.
 - Her To Do için silme butonu bulunur. Tıklandığında en altta bir onay uyrasını açılır.
-- 
+  
 ## Uygulamadan Görüntüler
 <div style="display: flex; justify-content: space-between;">
 <img src="todoappscreenshot1.png" alt="Ekran Görüntüsü 1" width="200">
