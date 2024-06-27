@@ -7,11 +7,10 @@ Bu repository, aynı Todo uygulamasının farklı mimari desenler ve teknolojile
 - Her To Do için silme butonu bulunur. Tıklandığında en altta bir onay uyrasını açılır.
 - 
 ## Uygulamadan Görüntüler
-![Screenshot 1](todoappscreenshot1.png)
-- 
-![Screenshot 2](todoappscreenshot2.png)
-- 
-![Screenshot 3](todoappscreenshot3.png)
+<div style="display: flex; justify-content: space-between;">
+<img src="todoappscreenshot1.png" alt="Ekran Görüntüsü 1" width="200">
+<img src="todoappscreenshot3.png" alt="Ekran Görüntüsü 3" width="200">
+</div>
 
 ## Projeler
 
