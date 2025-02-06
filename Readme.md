@@ -26,7 +26,7 @@ Bu proje, MVVM mimarisi, Hilt ile bağımlılık enjeksiyonu ve Retrofit ile ağ
 #### Kurulum ve Çalıştırma
 1. Projeyi klonlayın:
     ```bash
-    git clone https://github.com/kullaniciadi/TodoAppRepo.git
+    git clone https://github.com/tugbaguneyy/ToDoAppKotlinRepo.git
     ```
 2. MVVM, Hilt ve Retrofit projesi dizinine gidin:
     ```bash
