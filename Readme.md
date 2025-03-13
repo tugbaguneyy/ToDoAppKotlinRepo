@@ -94,5 +94,3 @@ Bu repository, aynı Todo uygulamasının farklı mimari desenler ve teknolojile
 - Veri tutarlılığı ve yerel veri yönetimi için tercih edilir.
 - LiveData gibi bileşenlerle Android uygulamalarına entegrasyon sağlar.
 
-#### Öğrenme Amaçlı Kullanım
-Bu proje, Android uygulama geliştirme sürecinde farklı veri yönetimi mimarileri ve bağımlılık enjeksiyonu gibi kavramların uygulamalı olarak öğrenilmesi için idealdir. Her iki versiyonu inceleyerek, Retrofit ile ağ işlemleri ve API entegrasyonu nasıl yapıldığını ve Room ile SQLite veritabanı işlemlerinin nasıl gerçekleştirildiğini pratik olarak görebilirsiniz.
